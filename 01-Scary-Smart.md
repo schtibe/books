@@ -8,7 +8,7 @@ This is a book about the flaws of human nature. It is also a book about parentin
 
 ## General Summary
 
-Artificial Intelligence will happen regardless of whether we want it or not. It is already part of many things in our lives, such as the Algorithms on Social Media or Placing advertisments. The development will only accelerate exponentially.
+Artificial Intelligence will happen regardless of whether we want it or not. It is already part of many things in our lives, such as the Algorithms on Social Media or Placing advertisements. The development will only accelerate exponentially.
 
 There might be scenarios where the introduction of AI will be good or bad for us, both are imaginable. The way it currently goes, it is more likely bad for us.
 The reason for that is that the motives of most people to develop and employ
@@ -36,6 +36,9 @@ There might be applications where the AI will solve problems that we're uncapabl
 
 They'll be an intelligence not based on biology but on silicone.
 
+All in all, if we would try to become better and more honest humans, then the
+machine would copy that and be honest and humane too.
+
 
 ## Random Notes
 
@@ -56,3 +59,6 @@ We might be too late to try to stop the machines because we're too slow to notic
 Bugs will happen.
 
 Humans collect 18 years of experience before we consider them smart enough to drive.
+
+We need to become kind on the internet. That's what the machines will be reading and
+learning from.
